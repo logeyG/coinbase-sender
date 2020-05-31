@@ -3,6 +3,7 @@ Simple python script that can be used to set up recurring sends from coinbase wa
 
 ### Usage
 `pip install coinbase`
+
 `python3 coinbase-sender.py`
 
 I'm running this via `cron` on a raspberry pi like so:
